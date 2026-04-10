@@ -30,7 +30,7 @@ class RakibulIslam:
     role       = "Backend Developer"
     education  = "Diploma in Computer Science & Technology (CST)"
     location   = "Dhaka, Bangladesh"
-    company    = "JagoBd It solutions · Full-time"
+    company    = "JagoBd It solutions | Junior Back End developer"
 
     current_work = "GEN-HR — Enterprise HR Management SaaS"
     learning     = ["Artificial Intelligence", "Machine Learning"]
