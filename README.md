@@ -1,14 +1,8 @@
 <!-- Header Banner -->
 <div align="center">
 
-```
-██████╗  █████╗ ██╗  ██╗██╗██████╗ ██╗   ██╗██╗
-██╔══██╗██╔══██╗██║ ██╔╝██║██╔══██╗██║   ██║██║
-██████╔╝███████║█████╔╝ ██║██████╔╝██║   ██║██║
-██╔══██╗██╔══██║██╔═██╗ ██║██╔══██╗██║   ██║██║
-██║  ██║██║  ██║██║  ██╗██║██████╔╝╚██████╔╝██████╗
-╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝╚═════╝  ╚═════╝ ╚══════╝
-```
+<img src="rakibul.png" width="1000" style="height:250px; object-fit:cover;">
+
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Backend+Developer+%7C+Django+%26+DRF;Building+SaaS+%40+Production+Scale;DSA+%7C+LeetCode+%7C+Codeforces;Exploring+AI+%2F+ML" alt="Typing SVG" />
 
